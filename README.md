@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm **Andrés Quintero** (Andy is also fine). I am a Colombia's Country Owner and Data Professional @ixpantia.
+
+I focus on using my system's programming skills to make the data science ecosystem a better place for everyone.
+
+Below you can checkout some of the projects I have worked on.
+
 <!--
 **andyquinterom/andyquinterom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
